@@ -1,5 +1,5 @@
 -  Hi, I’m @Psc30.
--  I’m currently learning to be proficient in software engineering, data science, and machine learning.
+-  I’m currently learning to be proficient in software engineering, data science, and machine learning from Codecademy.
 -  Several of my interests are artifical intelligence, robotics, and space related topics.
 -  I'm currently working full time so I usually have little time on github, but I'll try to update my profile every now and then.
 
