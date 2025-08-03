@@ -19,7 +19,9 @@ I'm a self-driven learner working toward a career in AI and machine learning eng
 - Familiar with: scikit-learn, pandas, NumPy, Matplotlib, Jupyter, Git
 
 📁 Featured Project
+
 🔍 Machine Learning Portfolio Project:
+
 A complete ML workflow including data preprocessing, model training & evaluation, hyperparameter tuning, and result interpretation.
 ➡️ [Machine Learning Portfolio Project](https://github.com/Psc30/ml-portfolio-project)
 
