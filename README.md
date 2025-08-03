@@ -1,4 +1,5 @@
 👋 Hi, I’m @Psc30
+
 I'm a self-driven learner working toward a career in AI and machine learning engineering. I'm currently completing the Data Science and Machine Learning paths on [Codecademy](https://www.codecademy.com/profiles/Psc_Codecademy), where I've built a solid foundation in modeling, data analysis, and real-world project workflows.
 
 🚀 Interests
