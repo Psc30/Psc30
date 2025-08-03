@@ -24,6 +24,7 @@ A complete ML workflow including data preprocessing, model training & evaluation
 ➡️ [Machine Learning Portfolio Project](https://github.com/Psc30/ml-portfolio-project)
 
 🌱 About Me
+
 I'm currently working full-time, so I update this space as I progress through projects. My long-term goal is to become a Machine Learning Engineer and contribute to impactful AI-driven solutions.
 
 Let’s connect and learn together!
